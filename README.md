@@ -1,1 +1,1 @@
-# stock_prediction-using-RNN
+# time_series_stock_prediction-using-RNN
